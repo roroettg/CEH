@@ -1,0 +1,1 @@
+![bctextencoder](images/bctextencoder.png)
